@@ -12,7 +12,7 @@
 <a href="https://fb.com/ayush kumar(ansh)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayush kumar(ansh)" height="30" width="40" /></a>
 <a href="https://instagram.com/rising_sun004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rising_sun004" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ayushkumar_sing5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushkumar_sing5" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayush_824101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayush_824101" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
