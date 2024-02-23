@@ -1,7 +1,7 @@
 ![logo](Ayush.png)
 <h1 align="center">Hi 👋, I'm Ayush kumar</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
-<img align="right"alt="coding"width="400"src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<img align="right"alt="coding"width="400"src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush11325&label=Profile%20views&color=0e75b6&style=flat" alt="ayush11325" /> </p>
 
 - ⚡ Fun fact **I am funny😁**
