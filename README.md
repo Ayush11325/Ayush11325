@@ -1,4 +1,4 @@
-![logo](https://github.com/Ayush11325/Ayush11325/blob/main/third.webp)
+![logo](Ayush.png)
 <h1 align="center">Hi 👋, I'm Ayush kumar</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
 <img align="right"alt="coding"width="400"src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
