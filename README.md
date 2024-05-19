@@ -1,4 +1,4 @@
-<a href="https://www.google.com/search?q=lnctu+ac+in&rlz=1C1OPNX_en-GBIN1068IN1068&oq=&gs_lcrp=EgZjaHJvbWUqCQgBECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQwxMTQ3MzIzNGowajeoAgiwAgE&sourceid=chrome&ie=UTF-8"> img src="Ayush.png" /a>
+![logo](Ayush.png)
 <h1 align="center">Hi 👋, I'm Ayush kumar</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
 <img align="right"alt="coding"width="400"src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
