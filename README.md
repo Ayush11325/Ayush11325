@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ayush11325&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/🎉-2M%20Profile%20Views-orange?style=flat-square" alt="2M milestone" />
 </p>
 
 - ⚡ Fun fact: **I am funny 😁**  
