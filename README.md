@@ -1,4 +1,4 @@
-![logo](Ayush(2).png)
+![logo](Ayush1.png)
 <h1 align="center">Hi 👋, I'm Ayush kumar</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
 <img align="right"alt="coding"width="400"src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
