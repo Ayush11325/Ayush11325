@@ -72,17 +72,19 @@
 ---
 
 ### **GitHub Stats**
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush11325&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="40%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush11325&show_icons=true&locale=en" alt="GitHub Stats" width="50%" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush11325&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush11325&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush11325" alt="GitHub Streak" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush11325&theme=radical" alt="GitHub Streak" />
 </p>
-
----
-
 ### **Fun Badges & Achievements**
 <p align="left">
   <img src="https://img.shields.io/badge/ML-AI-blue?style=for-the-badge&logo=python" alt="ML/AI Badge" />
