@@ -12,7 +12,7 @@
 - ⚡ Fun fact: **I am funny 😁**  
 - 🌱 Currently learning **Data Science, Machine Learning & AI**  
 - 💬 Ask me about **Python, ML, AI, Django, Web Development**  
-- 📫 Reach me: **ayush.kumar@example.com**  
+- 📫 Reach me: **ayushkumar.singh11325@gmail.com**  
 - 🚀 Passionate about **Open Source & Projects that solve real problems**  
 
 ---
@@ -60,9 +60,65 @@
 ---
 
 ### **Projects & Highlights**
-- 📌 [Project 1: ML Model for Stock Prediction](#)  
-- 📌 [Project 2: Data Visualization Dashboard](#)  
-- 📌 [Project 3: Web App using Django & ML](#)  
+
+<details>
+  <summary>Python Projects</summary>
+- library-management-system  
+- Ayaiml  
+- ayuai  
+- My-Virtual-Assistant  
+- Track-phone-number-code-and-country  
+- QR-Code-Generator  
+- Convert-Image-To-PDF  
+- YouTube-Video-Download  
+- email-sender  
+- language-detector  
+- calculator Publicface-recognisation-attendence-system  
+- sound-recorder.py  
+- ludo-game-with-screen-lock.py  
+- Quiz-app  
+</details>
+
+<details>
+  <summary>JavaScript Projects</summary>
+- snake-game  
+- puter – The Internet OS  
+- gym-calculator  
+</details>
+
+<details>
+  <summary>Java Projects</summary>
+- resume-builder.java  
+- Car-rental-System  
+- print-current-Date_time---any-year-calendor  
+- java_game_rock_paper_scissor  
+</details>
+
+<details>
+  <summary>C / C++ Projects</summary>
+- Dussehra_Wishes-Quiz.cpp  
+- Atm-project  
+- Book-management-system  
+</details>
+
+<details>
+  <summary>HTML / CSS Projects</summary>
+- Single-File-Streaming-Web-App  
+- Smart-Hospital-Management-Dashboard  
+- Arcade-Car-Racer  
+- my_portfolio  
+- love-calculator  
+- weather-app  
+- my-own-music-player  
+- netflix-clone-app  
+- ram-mandir-web-page  
+- Calculator-using-html-css-and-javascript  
+</details>
+
+<details>
+  <summary>Jupyter Notebook</summary>
+- python-full-notes-by-me  
+</details>
 
 ---
 
